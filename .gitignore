@@ -9,5 +9,5 @@ Actions.log
 Error.log
 .dockerignore
 Dockerfile
-docker-compose.override.yml
+docker-compose.yml
 entrypoint.sh
