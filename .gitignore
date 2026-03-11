@@ -1,0 +1,12 @@
+.idea/
+.venv/
+.env
+requirements.txt
+database/
+user.db
+logs/
+Actions.log
+Error.log
+Dockerfile
+docker-compose.override.yml
+entrypoint.sh
