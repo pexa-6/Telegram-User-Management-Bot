@@ -1,0 +1,13 @@
+.idea/
+.venv/
+.env
+.dockerignore
+requirements.txt
+database/
+user.db
+logs/
+Actions.log
+Error.log
+Dockerfile
+docker-compose.yml
+entrypoint.sh
